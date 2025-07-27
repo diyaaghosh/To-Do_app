@@ -26,9 +26,8 @@ flask_tutorial/
 ├── static/           
 ├── templates/          
 │   ├── index.html
-│  
-|   |── update.html
-|   |__ base.html
+|   ├── update.html
+|   ├── base.html
 ├── app.py             
 ├── requirements.txt    
 └── README.md           
