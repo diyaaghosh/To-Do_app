@@ -53,4 +53,5 @@ flask_tutorial/
    python app.py
    ```
 
-   
+   This project is inspired by CodeWithHarry's tutorial: [[YouTube Link](https://www.youtube.com/watch?v=oA8brF3w5XQ)]
+
