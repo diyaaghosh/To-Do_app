@@ -36,8 +36,8 @@ flask_tutorial/
 ## Steps
 1. Clone the repo  
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/diyaaghosh/To-Do_app.git
+   cd To-Do_app
    ```
 2. Create a virtual environment
    ```bash
