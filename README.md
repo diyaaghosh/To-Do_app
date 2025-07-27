@@ -23,13 +23,13 @@ This project was created to understand backend development using Flask, includin
 ##  Project Structure
 flask_tutorial/
 │
-├── static/             # CSS or image files (if any)
-├── templates/          # HTML templates (Jinja2)
+├── static/           
+├── templates/          
 │   ├── index.html
 │   └── ...
-├── app.py              # Main Flask app
-├── requirements.txt    # Python dependencies
-└── README.md           # You're here!
+├── app.py             
+├── requirements.txt    
+└── README.md           
 
 ## Steps
 1. Clone the repo  
