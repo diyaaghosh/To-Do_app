@@ -23,7 +23,7 @@ This project was created to understand backend development using Flask, includin
 ##  Project Structure
 flask_tutorial/
 │
-├── static/             # CSS or image files (if any)
+├── static/             
 ├── templates/          # HTML templates (Jinja2)
 │   ├── index.html
 │   └── ...
