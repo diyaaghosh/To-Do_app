@@ -21,6 +21,7 @@ This project was created to understand backend development using Flask, includin
 - Git & GitHub (for version control)
 
 ##  Project Structure
+```
 flask_tutorial/
 ├── static/
 ├── templates/
@@ -30,7 +31,7 @@ flask_tutorial/
 ├── app.py
 ├── requirements.txt
 └── README.md
-  
+  ```
 
 ## Steps
 1. Clone the repo  
