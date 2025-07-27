@@ -21,20 +21,34 @@ This project was created to understand backend development using Flask, includin
 - Git & GitHub (for version control)
 
 ##  Project Structure
-flask_tutorial/│├── static/             # CSS or image files (if any)├── templates/          # HTML templates (Jinja2)│   ├── index.html│   └── ...├── app.py              # Main Flask app├── requirements.txt    # Python dependencies└── README.md           # You're here!
+flask_tutorial/
+│
+├── static/             # CSS or image files (if any)
+├── templates/          # HTML templates (Jinja2)
+│   ├── index.html
+│   └── ...
+├── app.py              # Main Flask app
+├── requirements.txt    # Python dependencies
+└── README.md           # You're here!
 
 ## Steps
 1. Clone the repo  
    ```bash
    git clone https://github.com/<your-username>/<your-repo>.git
    cd <your-repo>
+   ```
 2. Create a virtual environment
+   ```bash
    python -m venv venv
    venv\Scripts\activate     # For Windows
-3. Install dependencies
+   ```
+4. Install dependencies
+   ```bash
    pip install -r requirements.txt
-4. Run the Flask app
+   ```
+6. Run the Flask app
+ ```bash
    python app.py
-   
+   ```
 
    
